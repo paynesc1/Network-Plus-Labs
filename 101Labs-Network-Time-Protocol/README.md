@@ -8,8 +8,8 @@ NTP servers allow the internet as we know it to function. The NTP master servers
 
 Note that for this lab I used an 1841 model router, which automatically boots with the below IOS image. If you have issues with any commands, please use the same model. A ‘show version’ command displays your IOS version. We cover changing the IOS version in the TFTP lab.
 
-“flash:c1841-advipservicesk9-mz.124-15.T1.bin”
 
-Lab Tool:
-
-Packet Tracer
+My Thoughts:
+In this lab we learned about NTP.
+We configured our PC to get access to the NTP server by setting it's address.
+Our screenshot npt-CLI shows we are connected to the NTP server and getting the corret synced time.
