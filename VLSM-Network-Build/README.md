@@ -17,4 +17,3 @@ It had 3 WAN links
 I successfully built the network in the virtualization sandbox using VLSM and tested reaching hosts via the ping command
 I leaned on the show ip int brief commmand a ton to be sure my interfaces were assigned the correct addresses
 
-N
