@@ -9,3 +9,8 @@ Many vendors supply basic (layer 2) switches, as well as higher-specification sw
 
 My Thoughts:
 In this lab, we configured two VLANS on our switch, VLAN 20 and VLAN 30. 
+In Multilayer_switch_topology.png you can see our network topology
+In VLAN_config.png you can see our CLI commands to set up our two VLANS
+In ping_results.png you can see our successful pings within our VLAN and across the swithc to our other VLAN.
+
+Here we successfully set up inter-VLAN routing and saw firsthand how a switch is performing both Layer 2 and Layer 3 functions
